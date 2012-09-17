@@ -1,0 +1,11 @@
+Package: FRCC
+Type: Package
+Title: Fast Regularized Canonical Correlation Analysis
+Version: 1.0
+Date: 2012-06-25
+Author: Raul Cruz-Cano
+Maintainer: Raul Cruz-Cano <raulcruz@umd.edu>
+Description: This package implements the functions associated with Fast Regularized Canonical Correlation Analysis.  
+License: GPL-2
+LazyLoad: yes
+Requires: CCP, MASS, calibrate, corpcor
